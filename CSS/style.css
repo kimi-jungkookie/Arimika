@@ -260,6 +260,14 @@ body {
   color: #F2778E;
 }
 
+.subheadings{
+  margin-bottom: 0.7vh;
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 700;
+  color: #F2778E;
+}
+
 .info p {
   margin-bottom: 2vh;
   font-family: Montserrat;
